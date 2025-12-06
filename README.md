@@ -34,10 +34,10 @@
 ## 🚀 **Tech Stack & Tools**
 
 <div align="center">
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FF9900?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Skills-0078D7?style=for-the-badge&logo=windows&logoColor=white" /> </p>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FF9900?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Skills-0078D7?style=for-the-badge&logo=windows&logoColor=white" /> </p>
 </div>
 
 ---
@@ -49,7 +49,7 @@
 - 🖼️ Fully responsive layout  
 - 📄 Screenshots are added 👇👇👇
 - 📌 https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-15-55%20Myntra%20Functional%20Clone.png
-- 
+
 ### 🧮 **Calculator App**
 - ⚡ Fully functional & interactive calculator
 - 🔧 Tech: HTML, CSS, JavaScript
@@ -66,8 +66,7 @@
 - Simple and clean design for easy use
 - 📂 GitHub Repo: Calculator Project
 
-
-🏏 **Cricket Game App**
+### 🏏 **Cricket Game App**
 - ⚡ Fully functional & interactive cricket game
 - 🔧 Tech: HTML, CSS, JavaScript
 - 🏏 Click Bat or Ball to play
@@ -75,7 +74,7 @@
 - 🎨 Clean, responsive, and fun UI
 - 👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png
 
-📝 **Todo App**
+### 📝 **Todo App**
 - ⚡ Fully functional & interactive task manager
 - 🔧 Tech: HTML, CSS, JavaScript
 - ✅ Add, edit, and delete tasks dynamically
