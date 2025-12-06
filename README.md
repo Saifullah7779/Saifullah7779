@@ -45,8 +45,8 @@
 ### ⭐ **Myntra Functional Clone**
 - 🔧 HTML, CSS  
 - 🖼️ Fully responsive layout  
-- 📄 Add screenshots / demo once uploaded  
-- 📌 *(Add Repo Link Here)*
+- 📄 Screenshots are added to main  
+- 📌 https://github.com/Saifullah7779/Saifullah7779/upload/main
 
 ### ⭐ **React Projects**
 - 🛠️ React + JavaScript  
