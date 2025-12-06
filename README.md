@@ -11,15 +11,23 @@
 
 </div>
 
----
-
-## 👨‍💻 **About Me**
-
+### 👋 About Me
 - 🎓 **ICS + Diploma in Information & Technology**
-- 💻 Skilled in **HTML, CSS, JavaScript, React**
-- 🔍 Seeking **Internship** opportunities in Web Development  
+- 💻 Skilled in **HTML, CSS, JavaScript, React, State Management, API Integration**
 - 📈 Focused on writing clean, efficient and scalable code  
-- 🌱 Currently learning **React Hooks, State Management, API Integration**
+- ⚡ Front-End Web Developer | React Enthusiast | Lifelong Learner | AI Tools Explorer
+- 💻 Strong computer knowledge and tech-savvy
+- 📝 Proficient in MS Word, PowerPoint, Excel
+- 🤖 Experienced with AI tools like ChatGPT, Gemini, Bard, etc. for learning, coding, and productivity
+- 🔧 Experienced in building responsive, interactive web apps
+- 🎯 Always learning new technologies and improving skills
+- ✨ Passionate about writing clean, efficient, and user-friendly code
+- 🔍 Seeking **Internship** opportunities in Web Development  
+🌟 **Skills & Tools**
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-FF9900?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Skills-0078D7?style=for-the-badge&logo=windows&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ---
 
@@ -66,20 +74,20 @@
 
 
 🏏 **Cricket Game App**
-⚡- Fully functional & interactive cricket game
-🔧- Tech: HTML, CSS, JavaScript
-🏏- Click Bat or Ball to play
-✅- Computer randomly chooses its move and displays Win, Loss, or Stump Out
-🎨- Clean, responsive, and fun UI
-👇- Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png
+- ⚡ Fully functional & interactive cricket game
+- 🔧 Tech: HTML, CSS, JavaScript
+- 🏏 Click Bat or Ball to play
+- ✅ Computer randomly chooses its move and displays Win, Loss, or Stump Out
+- 🎨 Clean, responsive, and fun UI
+- 👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png
 
 📝 **Todo App**
-⚡- Fully functional & interactive task manager
-🔧- Tech: HTML, CSS, JavaScript
-✅- Add, edit, and delete tasks dynamically
-🎨- Clean, responsive, and easy-to-use UI
-🛠️- Marks tasks as completed on click
-👇- Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png
+- ⚡ Fully functional & interactive task manager
+- 🔧 Tech: HTML, CSS, JavaScript
+- ✅ Add, edit, and delete tasks dynamically
+- 🎨 Clean, responsive, and easy-to-use UI
+- 🛠️ Marks tasks as completed on click
+- 👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png
 
 ---
 
