@@ -45,14 +45,52 @@
 ### ⭐ **Myntra Functional Clone**
 - 🔧 HTML, CSS  
 - 🖼️ Fully responsive layout  
-- 📄 Screenshots are added to main  
-- 📌 https://github.com/Saifullah7779/Saifullah7779/upload/main
+- 📄 Screenshots are added 👇👇👇
+- 📌 https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-15-55%20Myntra%20Functional%20Clone.png
+- 
+---
+🧮 Calculator App
+⚡ Fully functional & interactive calculator
+🔧 Tech: HTML, CSS, JavaScript
+🎨 Clean and responsive UI with modern button animations
+✅ Functional for addition ➕, subtraction ➖, multiplication ✖️ & division ➗
+💡 Includes clear, decimal, and all-clear buttons for usability
+🖥️ Works on both desktop and mobile devices
+👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-40-15%20Calculator.png
+
+🚀 Features
+Interactive buttons with hover effects
+Responsive layout for any screen size
+Instant calculation results without page reload
+Simple and clean design for easy use
+📂 GitHub Repo: Calculator Project
+
+---
+
+🏏 Cricket Game App
+⚡ Fully functional & interactive cricket game
+🔧 Tech: HTML, CSS, JavaScript
+🏏 Click Bat or Ball to play
+✅ Computer randomly chooses its move and displays Win, Loss, or Stump Out
+🎨 Clean, responsive, and fun UI
+👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png
+
+---
+📝 Todo App
+⚡ Fully functional & interactive task manager
+🔧 Tech: HTML, CSS, JavaScript
+✅ Add, edit, and delete tasks dynamically
+🎨 Clean, responsive, and easy-to-use UI
+🛠️ Marks tasks as completed on click
+👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png
+
+---
+
 
 ### ⭐ **React Projects**
 - 🛠️ React + JavaScript  
 - 🌐 Modern UI components  
-- 📄 Add screenshots  
-- 📌 *(Add Repo Link Here)*
+- 📄 Made but not yet uploaded
 
 ---
 
