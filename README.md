@@ -63,7 +63,12 @@
 - 🔧 HTML, CSS  
 - 🖼️ Fully responsive layout  
 - 📄 Screenshots are added 👇👇👇
+  
+![Myntra Functional Clone](https://raw.githubusercontent.com/Saifullah7779/Saifullah7779/main/Screenshot%202025-12-06%20at%2007-15-55%20Myntra%20Functional%20Clone.png)
+
 - 📌 https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-15-55%20Myntra%20Functional%20Clone.png
+
+---
 
 ### 🧮 **Calculator App**
 - ⚡ Fully functional & interactive calculator
@@ -72,14 +77,12 @@
 - ✅ Functional for addition ➕, subtraction ➖, multiplication ✖️ & division ➗
 - 💡 Includes clear, decimal, and all-clear buttons for usability
 - 🖥️ Works on both desktop and mobile devices
+  
+![Calculator](https://raw.githubusercontent.com/Saifullah7779/Saifullah7779/main/Screenshot%202025-12-06%20at%2007-40-15%20Calculator.png)
+
 -  Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2007-40-15%20Calculator.png
 
-🚀 **Features**
-- Interactive buttons with hover effects
-- Responsive layout for any screen size
-- Instant calculation results without page reload
-- Simple and clean design for easy use
-- 📂 GitHub Repo: Calculator Project
+---
 
 ### 🏏 **Cricket Game App**
 - ⚡ Fully functional & interactive cricket game
@@ -87,7 +90,12 @@
 - 🏏 Click Bat or Ball to play
 - ✅ Computer randomly chooses its move and displays Win, Loss, or Stump Out
 - 🎨 Clean, responsive, and fun UI
+
+![Cricket Game](https://raw.githubusercontent.com/Saifullah7779/Saifullah7779/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png)
+
 - 👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-02-28%20Cricket%20Game.png
+
+---
 
 ### 📝 **Todo App**
 - ⚡ Fully functional & interactive task manager
@@ -95,10 +103,12 @@
 - ✅ Add, edit, and delete tasks dynamically
 - 🎨 Clean, responsive, and easy-to-use UI
 - 🛠️ Marks tasks as completed on click
+
+![Todo App](https://raw.githubusercontent.com/Saifullah7779/Saifullah7779/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png)
+
 - 👇 Screenshot https://github.com/Saifullah7779/Saifullah7779/blob/main/Screenshot%202025-12-06%20at%2008-08-01%20To%20Do%20App.png
 
 ---
-
 
 ### ⭐ **React Projects**
 - 🛠️ React + JavaScript  
